@@ -1,0 +1,24 @@
+{
+  "name": "restserver",
+  "version": "1.0.0",
+  "description": "## to use:",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jspsun/AllisonLeaugeSite"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jspsun/AllisonLeaugeSite/issues"
+  },
+  "homepage": "https://github.com/Jspsun/AllisonLeaugeSite#readme"
+}
